@@ -2,7 +2,7 @@
 
 Materials used for studying, reporting, and presenting on the microbiome.
 
-**1. Presentation 16S rDRN - August2024**
+**1. Presentation 16S rDNA - August 2024**
 
 [Science paper and data of Zmora et al. (2018)](https://github.com/anhvobio/microbiome/tree/main/presentation_20240811)
 
