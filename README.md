@@ -10,5 +10,5 @@ Materials used for studying, reporting, and presenting on the microbiome.
 
 [Data analysis for the 16S rDNA workflow by Hoang Son.](https://github.com/anhvobio/microbiome/blob/main/Murine_%26_human_gut_mucosal_microbiome.ipynb)
 
-
+[MGMA 25.1 Report project: Probiotics Colonization in the Human GI Tract](https://www.youtube.com/watch?v=M8lgJujrHKk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=118)
 
