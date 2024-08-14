@@ -12,6 +12,6 @@ Materials used for studying, reporting, and presenting on the microbiome.
 
 [MGMA 25.1 Report project: Probiotics Colonization in the Human GI Tract](https://www.youtube.com/watch?v=M8lgJujrHKk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=118)
 
-**2. Courses **
+**2. Courses**
 
 [Microbial-bioinformatics-introductory-course-Material-2018](https://mibwurrepo.github.io/Microbial-bioinformatics-introductory-course-Material-2018/)
