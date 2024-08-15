@@ -14,6 +14,6 @@ Materials used for studying, reporting, and presenting on the microbiome.
 
 **2. Courses**
 
-[MGMA 2024 (Microbiome Lớp Thầy Lưu Phúc Lợi)](https://github.com/UeenHuynh/MGMA_2024)
+[MGMA 2024 (Microbiome - Dr. Loi Luu)](https://github.com/UeenHuynh/MGMA_2024)
 
 [Microbial-bioinformatics-introductory-course-Material-2018](https://mibwurrepo.github.io/Microbial-bioinformatics-introductory-course-Material-2018/)
